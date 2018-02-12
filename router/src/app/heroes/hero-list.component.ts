@@ -7,8 +7,7 @@ import { Component, OnInit } from '@angular/core';
   <p>Get your heroes here</p>
 
   <button routerLink="/sidekicks">Go to sidekicks</button>
-`,
-  styleUrls: ['./hero-list.component.css']
+`
 })
 export class HeroListComponent implements OnInit {
 
